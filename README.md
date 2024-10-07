@@ -3,7 +3,7 @@
 
 ## Overview
 
-CLminton is a badminton racket shop that offers a variety of quality rackets from various brands. This project aims to develop a Java-based application to manage product transactions in the store using a MySQL database. The application features user roles (User and Admin) and supports various functionalities such as product management, cart checkout, and transaction history.
+CLminton is a badminton racket shop that offers a variety of quality rackets from various brands. This project aims to develop a Java-based application to manage product transactions in the store using a MySQL database. The application features user roles (User and Admin) and supports various functionalities such as product management, cart checkout, and transaction history. The project was developed as part of the Business Application Development course in the Odd Semester 2023/2024 at ISYS6197 | ISYS6197003.
 
 ## Table of Contents
 
